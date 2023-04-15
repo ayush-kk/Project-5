@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "date": "14/03/2023",
+      "title": "Sam",
+      "description": "A simple React website typically includes features such as a homepage, about page, contact page or service pages. These pages may include text, images, and videos to provide users with an overview of the topic.",
+      "url": "https://project-1-chi-lac.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "19/03/2023",
+      "title": "VIDEO HUB",
+      "description": "A video hub is an online platform or website that allows users to browse, search, and watch a variety of video content. These hubs often host a large library of videos, ranging from educational content to entertainment, music, news, and more.",
+      "url": "https://project-2-omega-nine.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "21/03/2023",
+      "title": "XCrypto",
+      "description": "A crypto website made using React is a website that is built using the React JavaScript library and is focused on providing users with information about cryptocurrencies. ",
+      "url": "https://project-3-wheat.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "25/03/2023",
+      "title": "REACT CART",
+      "description": "A React cart project is a web application that allows users to create and manage a shopping cart for online purchases. Users can browse products and add them to their cart, adjust quantities, and remove items as needed.",
+      "url": "https://project-4-tawny.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "06/04/2023",
+      "title": "Jadibuti",
+      "description": "The Ayurvedic Medicine App is a web-based application that allows users to browse and purchase ayurvedic medicines online.",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "https://images.pexels.com/photos/7615621/pexels-photo-7615621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "date": "09/04/2023",
+      "title": "PORTFOLIO",
+      "description": "This is my portfolio website built using React and Chakra UI is a web application that showcases your skills, experience, and projects as a developer or designer.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
