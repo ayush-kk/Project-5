@@ -3,7 +3,7 @@
     {
       "date": "14/03/2023",
       "title": "Sam",
-      "description": "A simple React website typically includes features such as a homepage, about page, contact page or service pages. These pages may include text, images, and videos to provide users with an overview of the topic.",
+      "description": "A simple React website typically includes features such as a homepage, about page, contact page or service pages. ",
       "url": "https://project-1-chi-lac.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
     },
@@ -11,7 +11,7 @@
     {
       "date": "19/03/2023",
       "title": "VIDEO HUB",
-      "description": "A video hub is an online platform or website that allows users to browse, search, and watch a variety of video content. These hubs often host a large library of videos, ranging from educational content to entertainment, music, news, and more.",
+      "description": "A video hub is an online platform or website that allows users to browse, search, and watch a variety of video content. These hubs often host a large library of videos. ",
       "url": "https://project-2-omega-nine.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
     },
@@ -26,7 +26,7 @@
     {
       "date": "25/03/2023",
       "title": "REACT CART",
-      "description": "A React cart project is a web application that allows users to create and manage a shopping cart for online purchases. Users can browse products and add them to their cart, adjust quantities, and remove items as needed.",
+      "description": "This is a web application that allows users to create and manage a shopping cart for online purchases like add them to their cart, adjust quantities, and remove items as needed.",
       "url": "https://project-4-tawny.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
     },
